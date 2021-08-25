@@ -1,0 +1,35 @@
+[
+  {
+    "name": "",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "123456789",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "just a name, not used by the bot",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "987456321",
+    "tagIdOnDrop": "000000000000000000",
+    "userIcon": "Hello there, :skull_crossbones:",
+    "tagIdOnClimb" : ""
+  },
+  {
+    "name": "",
+    "comment": "if skip:true -> bot will ignore this ally code",
+    "allyCode": "987456323",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": true
+  },
+  {
+    "name": "",
+    "comment": "adding & in front of the discord id will tag the role",
+    "allyCode": "987456324",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "&000000000000000000",
+    "userIcon": ""
+  }
+]
