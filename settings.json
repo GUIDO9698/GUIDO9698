@@ -1,0 +1,6 @@
+{
+    "prefix" : "$",
+    "CUSTOM_MESSAGE_CLIMB_DEF" : "%USER_ICON%|%PLAYER_NAME% climbed from %PREVIOUS_RANK% to %CURRENT_RANK%. payout in %TIME_TO_PO%",
+    "CUSTOM_MESSAGE_DROP_DEF" : "%USER_ICON%|%PLAYER_NAME% dropped from %PREVIOUS_RANK% to %CURRENT_RANK%. payout in %TIME_TO_PO%",
+    "ICON_DEF" : "834303658727309364"
+}

@@ -1,0 +1,2 @@
+- debug daily dropped by shard members, does not reset upon change of po
+- make a docker script for update
